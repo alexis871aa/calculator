@@ -45,8 +45,8 @@ p {
 	text-align: center;
 	line-height: 60px;
 	font-size: 1.5rem;
-	cursor: pointer;
 	user-select: none;
+	cursor: pointer;
 }
 
 .clear.grey {
@@ -63,5 +63,10 @@ p {
 	border-radius: 45px;
 }
 
-.one.two.three.four.five.six.seven.eight.nine {
+.one.two.three.four.five.six.seven.eight.nine.plus.minus.equal {
+	cursor: pointer;
+}
+
+.light {
+	color: #ff9501;
 }
